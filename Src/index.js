@@ -1,3 +1,13 @@
+
+/**
+ * @INFO
+ * Bot Coded by WIZARD OF OZᶫᵒᵛᵉᵧₒᵤ#4090 | https://discord.gg/PqdEhECCZX
+ * Please mention me when using this Code!
+ * @INFO
+ */
+
+
+
 require('dotenv').config();
 const { EmbedBuilder, ActivityType, ApplicationCommand, Client, IntentsBitField, Collection } = require('discord.js')
 const colours = require('colours');
@@ -53,6 +63,13 @@ client.on('messageCreate' , (message) =>{
 
 })
 
+
+/**
+ * @INFO
+ * Bot Coded by WIZARD OF OZᶫᵒᵛᵉᵧₒᵤ#4090 | https://discord.gg/PqdEhECCZX
+ * Please mention me when using this Code!
+ * @INFO
+ */
 
 
 client.login(configjs.token)

@@ -1,3 +1,11 @@
+
+/**
+ * @INFO
+ * Bot Coded by WIZARD OF OZᶫᵒᵛᵉᵧₒᵤ#4090 | https://discord.gg/PqdEhECCZX
+ * Please mention me when using this Code!
+ * @INFO
+ */
+
 const { testServer } = require('../../../config.json');
 const areCommandsDifferent = require('../../utils/areCommandsDifferent');
 const getApplicationCommands = require('../../utils/getApplicationCommands');
