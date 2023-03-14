@@ -1,35 +1,27 @@
 {
   "name": "general-vansh-bot",
   "version": "1.0.0",
-  "description": "this is a custom bot made by wizard for general vansh server",
-  "main": "Src/index.js",
+  "description": "a custom bot made by WIzardOFOZ",
+  "main": "src/index.js",
+  "type": "module",
   "scripts": {
-    "dev": "nodemon Src/index.js",
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "custom",
-    "bot",
-    "general",
-    "vansh",
-    "discord",
-    "bot",
-    "discord",
-    "discord.js",
-    "javascript"
-  ],
-  "author": "WizardOF-OZ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WIZARDOF-OZ/General-Vansh-Bot.git"
+  },
+  "author": "WizardOFOZ",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WIZARDOF-OZ/General-Vansh-Bot/issues"
+  },
+  "homepage": "https://github.com/WIZARDOF-OZ/General-Vansh-Bot#readme",
   "dependencies": {
-    "@discordjs/builders": "^1.4.0",
-    "ascii-table": "^0.0.9",
-    "colours": "^0.6.0-2",
-    "discord.js": "^14.7.1",
+    "discord.js": "^14.8.0",
     "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "glob": "^8.1.0",
     "moment": "^2.29.4",
-    "nodemon": "^2.0.20",
-    "util": "^0.12.5"
+    "nodemon": "^2.0.21"
   }
 }
