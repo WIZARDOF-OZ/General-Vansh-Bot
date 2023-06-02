@@ -4,7 +4,7 @@
 ***
 
 
-### [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/XRyJsWczm7)
+
 
 
 
